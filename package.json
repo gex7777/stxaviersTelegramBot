@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "stxavierstelegrambot",
   "version": "1.0.0",
   "description": "Node js bot for stxaviers",
