@@ -1,12 +1,11 @@
 {
-  "type": "module",
   "name": "stxavierstelegrambot",
   "version": "1.0.0",
   "description": "Node js bot for stxaviers",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test":"nodemon index.js"
+    "test": "nodemon index.js"
   },
   "author": "George Menezes",
   "license": "ISC",

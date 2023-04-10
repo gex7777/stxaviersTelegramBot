@@ -1,8 +1,7 @@
-import dotenv from "dotenv";
-import TelegramBot from "node-telegram-bot-api";
-import axios from "axios";
+require("dotenv").config();
+const TelegramBot = require("node-telegram-bot-api");
+const axios = require("axios");
 
-dotenv.config();
 // replace the value below with the Telegram token you receive from @BotFather
 const token = process.env.TELEGRAM_BOT_API;
 
